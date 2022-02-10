@@ -1,0 +1,5 @@
+name: SoupPvP
+version: 0.1
+api: 3.28.0
+author: Sockay
+main: Sockay\Soup\Main
